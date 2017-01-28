@@ -1,0 +1,292 @@
+Name,Age,Outcome,Season,FirstImpressionRose,DateRose,FirstName,LastName,State,Winner,SecondPlace,ThirdPlace,AbsDistFromBachelorAge,RelDistFromBachelorAge,ContestantHairColor,ContestantHairType,ContestantRace,OlderthanBachelor,YoungerthanBachelor,SameAgeasBachelor,SameHairasBachelorette,DistFromBacheloretteAge,AbsDistFromBacheloretteAge,OlderThanBachelorette,YoungerThanBachelorette,SameAgeasBachelorette,SameRaceasBachelorette
+Amanda Kremer,28,Week 2,20,0,0,Amanda,Kremer, Oregon,0,0,0,2,-2,Blonde,Wavy,White,1,0,0,0,1,1,1,0,0,1
+Amanda Stanton,25,Week 8,20,0,3,Amanda,Stanton, California,0,0,0,1,1,Blonde,Wavy,White,0,1,0,0,4,4,1,0,0,1
+Amber James,30,Week 4,20,0,1,Amber,James, Illinois,0,0,0,4,-4,Brunette,Wavy,Black,1,0,0,1,-1,1,0,1,0,0
+Becca Tilley,26,Week 7,20,0,1,Becca,Tilley, Louisiana,0,0,0,0,0,Blonde,Wavy,White,0,0,1,0,3,3,1,0,0,1
+Breanne Rice,30,Week 1,20,0,0,Breanne,Rice, Washington,0,0,0,4,-4,Brunette,Straight,White,1,0,0,1,-1,1,0,1,0,1
+Caila Quinn,24,Week 9,20,0,2,Caila,Quinn, Ohio,0,0,1,2,2,Brunette,Straight,Asian,0,1,0,1,5,5,1,0,0,0
+Emily Ferguson,23,Week 7,20,0,1,Emily,Ferguson, Nevada,0,0,0,3,3,Blonde,Wavy,White,0,1,0,0,6,6,1,0,0,1
+Haley Ferguson,23,Week 4,20,0,0,Haley,Ferguson, Nevada,0,0,0,3,3,Blonde,Wavy,White,0,1,0,0,6,6,1,0,0,1
+Isabel Goodkind,24,Week 1,20,0,0,Isabel,Goodkind, Connecticut,0,0,0,2,2,Brunette,Wavy,White,0,1,0,1,5,5,1,0,0,1
+Jackie Dion,23,Week 2,20,0,0,Jackie,Dion, California,0,0,0,3,3,Brunette,Wavy,White,0,1,0,1,6,6,1,0,0,1
+Jami Letain,23,Week 3,20,0,0,Jami,Letain, Alberta,0,0,0,3,3,Brunette,Wavy,Black,0,1,0,1,6,6,1,0,0,0
+Jennifer Saviano,25,Week 5,20,0,0,Jennifer,Saviano, Florida,0,0,0,1,1,Brunette,Wavy,White,0,1,0,1,4,4,1,0,0,1
+Jessica Moser,23,Week 1,20,0,0,Jessica,Moser, Florida,0,0,0,3,3,Brunette,Straight,White,0,1,0,1,6,6,1,0,0,1
+JoJo Fletcher,24,Runner-up,20,0,2,JoJo,Fletcher, Texas,0,1,0,2,2,Brunette,Wavy,White,0,1,0,1,5,5,1,0,0,1
+Jubilee Sharpe,24,Week 5,20,0,1,Jubilee,Sharpe, Florida,0,0,0,2,2,Black,Straight,Black,0,1,0,0,5,5,1,0,0,0
+Lace Morris,25,Week 3,20,0,0,Lace,Morris, Colorado,0,0,0,1,1,Brunette,Wavy,White,0,1,0,1,4,4,1,0,0,1
+Laura Esselman,24,Week 1,20,0,0,Laura,Esselman, Kentucky,0,0,0,2,2,Red,Wavy,White,0,1,0,0,5,5,1,0,0,1
+Lauren Barr,23,Week 2,20,0,0,Lauren,Barr, Oklahoma,0,0,0,3,3,Brunette,Wavy,White,0,1,0,1,6,6,1,0,0,1
+Lauren Bushnell,25,Winner,20,0,2,Lauren,Bushnell, Oregon,1,0,0,1,1,Blonde,Wavy,White,0,1,0,0,4,4,1,0,0,1
+Lauren Himle,25,Week 6,20,0,1,Lauren,Himle, Michigan,0,0,0,1,1,Blonde,Wavy,White,0,1,0,0,4,4,1,0,0,1
+Lauren Russell,26,Week 1,20,0,0,Lauren,Russell, Texas,0,0,0,0,0,Brunette,Wavy,White,0,0,1,1,3,3,1,0,0,1
+Leah Block,25,Week 6,20,0,0,Leah,Block, Colorado,0,0,0,1,1,Blonde,Wavy,White,0,1,0,0,4,4,1,0,0,1
+Maegan Miller,30,Week 1,20,0,0,Maegan,Miller, California,0,0,0,4,-4,Brunette,Straight,White,1,0,0,1,-1,1,0,1,0,1
+Olivia Caridi,23,Week 6,20,1,2,Olivia,Caridi, Virginia,0,0,0,3,3,Blonde,Wavy,White,0,1,0,0,6,6,1,0,0,1
+Rachel Tchen,23,Week 4,20,0,0,Rachel,Tchen, Arkansas,0,0,0,3,3,Brunette,Wavy,Asian,0,1,0,1,6,6,1,0,0,0
+Samantha Passmore,26,Week 2,20,0,0,Samantha,Passmore, Florida,0,0,0,0,0,Blonde,Wavy,White,0,0,1,0,3,3,1,0,0,1
+Shushanna Mkrtychyan,27,Week 3,20,0,0,Shushanna,Mkrtychyan, Utah,0,0,0,1,-1,Brunette,Wavy,White,1,0,0,1,2,2,1,0,0,1
+Tiara Soleim,27,Week 1,20,0,0,Tiara,Soleim, Washington,0,0,0,1,-1,Blonde,Straight,White,1,0,0,0,2,2,1,0,0,1
+Alissa Giambrone,24,Week 2,19,0,0,Alissa,Giambrone, New Jersey,0,0,0,9,9,Brunette,Wavy,White,0,1,0,1,2,2,1,0,0,1
+Amanda Goerlitz,24,Week 1,19,0,0,Amanda,Goerlitz, Illinois,0,0,0,9,9,Blonde,Wavy,White,0,1,0,0,2,2,1,0,0,1
+Amber James,29,Week 3,19,0,0,Amber,James, Illinois,0,0,0,4,4,Brunette,Wavy,Black,0,1,0,1,-3,3,0,1,0,0
+Ashley Iaconetti,26,Week 6,19,0,0,Ashley,Iaconetti, Virginia,0,0,0,7,7,Brunette,Wavy,White,0,1,0,1,0,0,0,0,1,1
+Ashley Salter,24,Week 4,19,0,0,Ashley,Salter, Georgia,0,0,0,9,9,Blonde,Wavy,White,0,1,0,0,2,2,1,0,0,1
+Becca Tilley,25,Runner-up,19,0,2,Becca,Tilley, Louisiana,0,1,0,8,8,Brunette,Wavy,White,0,1,0,1,1,1,1,0,0,1
+Bo Stanley,25,Week 1,19,0,0,Bo,Stanley, California,0,0,0,8,8,Blonde,Wavy,White,0,1,0,0,1,1,1,0,0,1
+Britt Nilsson,27,Week 7,19,1,2,Britt,Nilsson, Michigan,0,0,0,6,6,Blonde,Straight,White,0,1,0,0,-1,1,0,1,0,1
+Brittany Fetkin,26,Week 1,19,0,0,Brittany,Fetkin, California,0,0,0,7,7,Brunette,Wavy,White,0,1,0,1,0,0,0,0,1,1
+Carly Waddell,29,Week 7,19,0,1,Carly,Waddell, Texas,0,0,0,4,4,Blonde,Wavy,White,0,1,0,0,-3,3,0,1,0,1
+Jade Roper,28,Week 8,19,0,1,Jade,Roper, Nebraska,0,0,0,5,5,Brunette,Wavy,White,0,1,0,1,-2,2,0,1,0,1
+Jillian Anderson,25,Week 4,19,0,0,Jillian,Anderson, Ohio,0,0,0,8,8,Brunette,Wavy,White,0,1,0,1,1,1,1,0,0,1
+Jordan Branch,24,Week 2,19,0,0,Jordan,Branch, Colorado,0,0,0,9,9,Blonde,Straight,White,0,1,0,0,2,2,1,0,0,1
+Juelia Kinney,30,Week 4,19,0,0,Juelia,Kinney, Oregon,0,0,0,3,3,Blonde,Straight,White,0,1,0,0,-4,4,0,1,0,1
+Kaitlyn Bristowe,29,Week 9,19,0,4,Kaitlyn,Bristowe, Alberta,0,0,1,4,4,Brunette,Wavy,White,0,1,0,1,-3,3,0,1,0,1
+Kara Wilson,25,Week 1,19,0,0,Kara,Wilson, Kentucky,0,0,0,8,8,Blonde,Straight,White,0,1,0,0,1,1,1,0,0,1
+Kelsey Poe,28,Week 6,19,0,0,Kelsey,Poe, Michigan,0,0,0,5,5,Brunette,Straight,Asian,0,1,0,1,-2,2,0,1,0,0
+Kimberly Sherbach,28,Week 2,19,0,0,Kimberly,Sherbach, New York,0,0,0,5,5,Brunette,Wavy,White,0,1,0,1,-2,2,0,1,0,1
+Mackenzie Deonigi,21,Week 5,19,0,1,Mackenzie,Deonigi, Washington,0,0,0,12,12,Brunette,Curly,White,0,1,0,1,5,5,1,0,0,1
+Megan Bell,24,Week 6,19,0,1,Megan,Bell, Tennessee,0,0,0,9,9,Blonde,Straight,White,0,1,0,0,2,2,1,0,0,1
+Michelle Davis,25,Week 1,19,0,0,Michelle,Davis, Utah,0,0,0,8,8,Brunette,Straight,White,0,1,0,1,1,1,1,0,0,1
+Nicole Meacham,31,Week 1,19,0,0,Nicole,Meacham, Arizona,0,0,0,2,2,Red,Straight,White,0,1,0,0,-5,5,0,1,0,1
+Nikki Delventhal,26,Week 4,19,0,0,Nikki,Delventhal, New Jersey,0,0,0,7,7,Brunette,Wavy,White,0,1,0,1,0,0,0,0,1,1
+Reegan Cornwell,28,Week 1,19,0,0,Reegan,Cornwell, California,0,0,0,5,5,Blonde,Wavy,White,0,1,0,0,-2,2,0,1,0,1
+Samantha Steffen,27,Week 5,19,0,0,Samantha,Steffen, Indiana,0,0,0,6,6,Brunette,Straight,White,0,1,0,1,-1,1,0,1,0,1
+Tandra Steiner,30,Week 2,19,0,0,Tandra,Steiner, Utah,0,0,0,3,3,Blonde,Wavy,White,0,1,0,0,-4,4,0,1,0,1
+Tara Eddings,26,Week 2,19,0,0,Tara,Eddings, Florida,0,0,0,7,7,Blonde,Wavy,White,0,1,0,0,0,0,0,0,1,1
+Tracy Darakis,29,Week 3,19,0,0,Tracy,Darakis, Florida,0,0,0,4,4,Brunette,Straight,White,0,1,0,1,-3,3,0,1,0,1
+Trina Scherenberg,33,Week 3,19,0,0,Trina,Scherenberg, Illinois,0,0,0,0,0,Blonde,Wavy,White,0,0,1,0,-7,7,0,1,0,1
+Whitney Bischoff,29,Winner,19,0,2,Whitney,Bischoff, Kentucky,1,0,0,4,4,Blonde,Wavy,White,0,1,0,0,-3,3,0,1,0,1
+Alexis Morgado,24,Week 1,18,0,0,Alexis,Morgado, Florida,0,0,0,8,8,Brunette,Wavy,White,0,1,0,1,3,3,1,0,0,1
+Alli Restko,26,Week 5,18,0,0,Alli,Restko, Illinois,0,0,0,6,6,Brunette,Wavy,White,0,1,0,1,1,1,1,0,0,1
+Amy Jokinen,31,Week 1,18,0,0,Amy,Jokinen, Florida,0,0,0,1,1,Brunette,Straight,White,0,1,0,1,-4,4,0,1,0,1
+Amy Long,27,Week 2,18,0,0,Amy,Long, Florida,0,0,0,5,5,Brunette,Straight,White,0,1,0,1,0,0,0,0,1,1
+Andi Dorfman,26,Week 9,18,0,3,Andi,Dorfman, Georgia,0,0,0,6,6,Brunette,Straight,White,0,1,0,1,1,1,1,0,0,1
+Ashley Poe,25,Week 1,18,0,0,Ashley,Poe, Texas,0,0,0,7,7,Brunette,Wavy,Asian,0,1,0,1,2,2,1,0,0,0
+Cassandra Ferguson,22,Week 6,18,0,1,Cassandra,Ferguson, Michigan,0,0,0,10,10,Brunette,Wavy,White,0,1,0,1,5,5,1,0,0,1
+Chantel Forrest,27,Week 2,18,0,0,Chantel,Forrest, Florida,0,0,0,5,5,Brunette,Straight,Black,0,1,0,1,0,0,0,0,1,0
+Chelsie Webster,24,Week 7,18,0,0,Chelsie,Webster, Ohio,0,0,0,8,8,Blonde,Wavy,White,0,1,0,0,3,3,1,0,0,1
+Christine Llano,23,Week 1,18,0,0,Christine,Llano, Florida,0,0,0,9,9,Blonde,Straight,White,0,1,0,0,4,4,1,0,0,1
+Christy Hansen,24,Week 3,18,0,0,Christy,Hansen, Illinois,0,0,0,8,8,Blonde,Straight,White,0,1,0,0,3,3,1,0,0,1
+Clare Crawley,32,Runner-up,18,0,3,Clare,Crawley, California,0,1,0,0,0,Brunette,Wavy,White,0,0,1,1,-5,5,0,1,0,1
+Danielle Ronco,25,Week 5,18,0,0,Danielle,Ronco, Illinois,0,0,0,7,7,Brunette,Curly,Black,0,1,0,1,2,2,1,0,0,0
+Elise Mosca,27,Week 4,18,0,0,Elise,Mosca, Pennsylvania,0,0,0,5,5,Blonde,Wavy,White,0,1,0,0,0,0,0,0,1,1
+Kat Hurd,29,Week 6,18,0,1,Kat,Hurd, Iowa,0,0,0,3,3,Blonde,Straight,White,0,1,0,0,-2,2,0,1,0,1
+Kelly Travi,27,Week 5,18,0,1,Kelly,Travi, Georgia,0,0,0,5,5,Brunette,Straight,White,0,1,0,1,0,0,0,0,1,1
+Kylie Lewis,23,Week 1,18,0,0,Kylie,Lewis, Illinois,0,0,0,9,9,Red,Wavy,White,0,1,0,0,4,4,1,0,0,1
+Lacy Faddoul,25,Week 1,18,0,0,Lacy,Faddoul, California,0,0,0,7,7,Brunette,Straight,White,0,1,0,1,2,2,1,0,0,1
+Lauren Higginson,25,Week 1,18,0,0,Lauren,Higginson, Oklahoma,0,0,0,7,7,Brunette,Wavy,White,0,1,0,1,2,2,1,0,0,1
+Lauren Solomon,26,Week 4,18,0,0,Lauren,Solomon, Texas,0,0,0,6,6,Brunette,Wavy,White,0,1,0,1,1,1,1,0,0,1
+"Lucinda ""Lucy"" Aragon",25,Week 3,18,0,0,Lucinda,Aragon, California,0,0,0,7,7,Brunette,Straight,White,0,1,0,1,2,2,1,0,0,1
+Maggie Gantt,25,Week 1,18,0,0,Maggie,Gantt, South Carolina,0,0,0,7,7,Brunette,Straight,White,0,1,0,1,2,2,1,0,0,1
+Nikki Ferrell,26,Winner,18,0,2,Nikki,Ferrell, Missouri,1,0,0,6,6,Blonde,Wavy,White,0,1,0,0,1,1,1,0,0,1
+Renee Oteri,32,Week 8,18,0,1,Renee,Oteri, Massachusetts,0,0,0,0,0,Brunette,Straight,White,0,0,1,1,-5,5,0,1,0,1
+Sharleen Joynt,29,Week 7,18,1,2,Sharleen,Joynt, Ontario,0,0,0,3,3,Brunette,Wavy,Asian,0,1,0,1,-2,2,0,1,0,0
+Valerie Eredia,26,Week 1,18,0,0,Valerie,Eredia, California,0,0,0,6,6,Brunette,Straight,White,0,1,0,1,1,1,1,0,0,1
+Victoria Lima,24,Week 2,18,0,0,Victoria,Lima, Brazil,0,0,0,8,8,Brunette,Wavy,White,0,1,0,1,3,3,1,0,0,1
+Amanda Meyer,26,Week 4,17,0,0,Amanda,Meyer, California,0,0,0,2,2,Brunette,Wavy,White,0,1,0,0,0,0,0,0,1,1
+AshLee Frazier,32,Week 9,17,1,1,AshLee,Frazier, Texas,0,0,1,4,-4,Brunette,Wavy,White,1,0,0,0,-6,6,0,1,0,1
+Ashley Harper,25,Week 1,17,0,0,Ashley,Harper, North Carolina,0,0,0,3,3,Brunette,Wavy,Black,0,1,0,0,1,1,1,0,0,0
+Ashley Palenkas,28,Week 1,17,0,0,Ashley,Palenkas, Michigan,0,0,0,0,0,Blonde,Wavy,White,0,0,1,1,-2,2,0,1,0,1
+Brooke Burchette,25,Week 2,17,1,0,Brooke,Burchette, Pennsylvania,0,0,0,3,3,Red,Curly,Black,0,1,0,0,1,1,1,0,0,0
+Catherine Giudici,26,Winner,17,1,1,Catherine,Giudici, Washington,1,0,0,2,2,Brunette,Straight,Asian,0,1,0,0,0,0,0,0,1,0
+Daniella McBride,24,Week 6,17,0,1,Daniella,McBride, California,0,0,0,4,4,Blonde,Wavy,White,0,1,0,1,2,2,1,0,0,1
+Desiree Hartsock,26,Week 8,17,1,2,Desiree,Hartsock, Colorado,0,0,0,2,2,Brunette,Straight,White,0,1,0,0,0,0,0,0,1,1
+Diana Weeks Willardson,31,Week 2,17,1,0,Diana,Willardson, Utah,0,0,0,3,-3,Brunette,Wavy,White,1,0,0,0,-5,5,0,1,0,1
+Jackie Parr,25,Week 5,17,1,0,Jackie,Parr, Florida,0,0,0,3,3,Brunette,Wavy,White,0,1,0,0,1,1,1,0,0,1
+Kacie Boguskie,25,Week 3,17,0,1,Kacie,Boguskie, Tennessee,0,0,0,3,3,Red,Wavy,White,0,1,0,0,1,1,1,0,0,1
+Katie Levans,27,Week 2,17,1,0,Katie,Levans, Illinois,0,0,0,1,1,Brunette,Curly,White,0,1,0,0,-1,1,0,1,0,1
+Kelly Dutton,28,Week 1,17,0,0,Kelly,Dutton, Tennessee,0,0,0,0,0,Blonde,Straight,White,0,0,1,1,-2,2,0,1,0,1
+Keriann Miranda,29,Week 1,17,0,0,Keriann,Miranda, California,0,0,0,1,-1,Blonde,Wavy,White,1,0,0,1,-3,3,0,1,0,1
+Kristy Kaminski,25,Week 3,17,0,0,Kristy,Kaminski, Wisconsin,0,0,0,3,3,Brunette,Wavy,White,0,1,0,0,1,1,1,0,0,1
+Lacey Latka,24,Week 1,17,0,0,Lacey,Latka, California,0,0,0,4,4,Blonde,Wavy,White,0,1,0,1,2,2,1,0,0,1
+Lauren Marchetti,27,Week 1,17,0,0,Lauren,Marchetti, Rhode Island,0,0,0,1,1,Blonde,Wavy,White,0,1,0,1,-1,1,0,1,0,1
+Lesley Murphy,24,Week 7,17,0,2,Lesley,Murphy, Arkansas,0,0,0,4,4,Blonde,Wavy,White,0,1,0,1,2,2,1,0,0,1
+Leslie Hughes,28,Week 4,17,1,0,Leslie,Hughes, Florida,0,0,0,0,0,Brunette,Curly,Black,0,0,1,0,-2,2,0,1,0,0
+Lindsay Yenter,24,Runner-up,17,0,3,Lindsay,Yenter, North Carolina,0,1,0,4,4,Brunette,Wavy,White,0,1,0,0,2,2,1,0,0,1
+Paige Vigil,25,Week 1,17,0,0,Paige,Vigil, Minnesota,0,0,0,3,3,Brunette,Wavy,White,0,1,0,0,1,1,1,0,0,1
+Robyn Howard,24,Week 5,17,1,0,Robyn,Howard, Kansas,0,0,0,4,4,Brunette,Straight,Black,0,1,0,0,2,2,1,0,0,0
+Sarah Herron,26,Week 6,17,1,1,Sarah,Herron, Colorado,0,0,0,2,2,Blonde,Wavy,White,0,1,0,1,0,0,0,0,1,1
+Selma Alameri,29,Week 6,17,1,1,Selma,Alameri, California,0,0,0,1,-1,Brunette,Straight,White,1,0,0,0,-3,3,0,1,0,1
+Taryn Renee Daniels,30,Week 3,17,0,0,Taryn,Daniels, Oregon,0,0,0,2,-2,Blonde,Wavy,White,1,0,0,1,-4,4,0,1,0,1
+Tierra LiCausi,24,Week 7,17,1,2,Tierra,LiCausi, Nevada,0,0,0,4,4,Brunette,Wavy,White,0,1,0,0,2,2,1,0,0,1
+Amber Bacon[19],23,Week 1,16,0,0,Amber,Bacon[19], British Columbia,0,0,0,5,5,Brunette,Straight,White,0,1,0,1,3,3,1,0,0,1
+Amber Tierney[20][21],28,Week 1,16,0,0,Amber,Tierney[20][21], Nebraska,0,0,0,0,0,Brunette,Straight,White,0,0,1,1,-2,2,0,1,0,1
+Anna Snowball[16][22],25,Week 1,16,0,0,Anna,Snowball[16][22], Michigan,0,0,0,3,3,Blonde,Straight,White,0,1,0,0,1,1,1,0,0,1
+Blakeley Jones,33,Week 6,16,0,1,Blakeley,Jones, North Carolina,0,0,0,5,-5,Brunette,Straight,White,1,0,0,1,-7,7,0,1,0,1
+Brittney Schreiner[3],26,Week 3,16,0,0,Brittney,Schreiner[3], Colorado,0,0,0,2,2,Blonde,Straight,White,0,1,0,0,0,0,0,0,1,1
+Casey Shteamer,26,Week 6,16,0,0,Casey,Shteamer, Kansas,0,0,0,2,2,Blonde,Wavy,White,0,1,0,0,0,0,0,0,1,1
+Courtney Robertson,28,Winner,16,0,2,Courtney,Robertson, Arizona,1,0,0,0,0,Brunette,Wavy,White,0,0,1,1,-2,2,0,1,0,1
+Dianna Martinez[13],30,Week 1,16,0,0,Dianna,Martinez[13], California,0,0,0,2,-2,Brunette,Wavy,White,1,0,0,1,-4,4,0,1,0,1
+Elyse Myers,24,Week 5,16,0,0,Elyse,Myers, Illinois,0,0,0,4,4,Brunette,Straight,White,0,1,0,1,2,2,1,0,0,1
+Emily O'Brien,27,Week 7,16,0,1,Emily,O'Brien, North Carolina,0,0,0,1,1,Blonde,Wavy,White,0,1,0,0,-1,1,0,1,0,1
+Erika Uhlig,23,Week 3,16,0,0,Erika,Uhlig, Virginia,0,0,0,5,5,Brunette,Wavy,White,0,1,0,1,3,3,1,0,0,1
+Holly Johnson[20],34,Week 1,16,0,0,Holly,Johnson[20], Kentucky,0,0,0,6,-6,Blonde,Straight,White,1,0,0,0,-8,8,0,1,0,1
+Jaclyn Swartz[15],27,Week 3,16,0,0,Jaclyn,Swartz[15], Massachusetts,0,0,0,1,1,Blonde,Wavy,White,0,1,0,0,-1,1,0,1,0,1
+Jamie Otis,25,Week 6,16,0,0,Jamie,Otis, New York,0,0,0,3,3,Brunette,Wavy,White,0,1,0,1,1,1,1,0,0,1
+Jenna Burke[16][17],27,Week 2,16,0,0,Jenna,Burke[16][17], Ohio,0,0,0,1,1,Brunette,Wavy,White,0,1,0,1,-1,1,0,1,0,1
+Jennifer Fritsch,28,Week 5,16,0,1,Jennifer,Fritsch, Oklahoma,0,0,0,0,0,Red,Wavy,White,0,0,1,0,-2,2,0,1,0,1
+Kacie Boguskie,24,Week 8,16,0,4,Kacie,Boguskie, Tennessee[c],0,0,0,4,4,Brunette,Wavy,White,0,1,0,1,2,2,1,0,0,1
+Lindzi Cox,27,Runner-up,16,1,2,Lindzi,Cox, Washington[b],0,1,0,1,1,Brunette,Wavy,White,0,1,0,1,-1,1,0,1,0,1
+Lyndsie James[20],29,Week 1,16,0,0,Lyndsie,James[20], England,0,0,0,1,-1,Blonde,Wavy,White,1,0,0,0,-3,3,0,1,0,1
+Monica Spannbauer,33,Week 4,16,0,0,Monica,Spannbauer, California,0,0,0,5,-5,Blonde,Wavy,White,1,0,0,0,-7,7,0,1,0,1
+Nicki Sterling,26,Week 9,16,0,1,Nicki,Sterling, Texas,0,0,0,2,2,Brunette,Straight,White,0,1,0,1,0,0,0,0,1,1
+Rachel Truehart,27,Week 7,16,0,3,Rachel,Truehart, Massachusetts,0,0,0,1,1,Blonde,Straight,White,0,1,0,0,-1,1,0,1,0,1
+Samantha Levey,26,Week 4,16,0,0,Samantha,Levey, Pennsylvania,0,0,0,2,2,Blonde,Wavy,White,0,1,0,0,0,0,0,0,1,1
+Shawn Reynolds[18],28,Week 2,16,0,0,Shawn,Reynolds[18], Ohio,0,0,0,0,0,Blonde,Straight,White,0,0,1,0,-2,2,0,1,0,1
+Shira Astrof[13],35,Week 1,16,0,0,Shira,Astrof[13], New York,0,0,0,7,-7,Brunette,Wavy,White,1,0,0,1,-9,9,0,1,0,1
+Alli Travis[10],24,Week 6,15,0,0,Alli,Travis[10], Ohio,0,0,0,14,14,Brunette,Straight,White,0,1,0,1,6,6,1,0,0,1
+Ashley Hebert[7],26,Week 9,15,0,3,Ashley,Hebert[7], Maine,0,0,0,12,12,Brunette,Straight,White,0,1,0,1,4,4,1,0,0,1
+Ashley Spivey[13],26,Week 5,15,1,1,Ashley,Spivey[13], North Carolina,0,0,0,12,12,Brunette,Straight,White,0,1,0,1,4,4,1,0,0,1
+Britnee,25,Week 1,15,0,0,Britnee,, Pennsylvania,0,0,0,13,13,Brunette,Straight,White,0,1,0,1,5,5,1,0,0,1
+Britt Billmaier[6],25,Week 7,15,0,1,Britt,Billmaier[6], Washington,0,0,0,13,13,Blonde,Wavy,White,0,1,0,0,5,5,1,0,0,1
+Chantal O'Brien[6],28,Runner-up,15,0,2,Chantal,O'Brien[6], Washington,0,1,0,10,10,Brunette,Straight,White,0,1,0,1,2,2,1,0,0,1
+Cristy Caserta[20],30,Week 1,15,0,0,Cristy,Caserta[20], Florida,0,0,0,8,8,Blonde,Straight,White,0,1,0,0,0,0,0,0,1,1
+Emily Maynard[5],25,Winner,15,0,3,Emily,Maynard[5], West Virginia,1,0,0,13,13,Blonde,Straight,White,0,1,0,0,5,5,1,0,0,1
+Jackie Gordon[9],26,Week 6,15,0,1,Jackie,Gordon[9], Rhode Island,0,0,0,12,12,Brunette,Wavy,White,0,1,0,1,4,4,1,0,0,1
+"Jessica ""J"" Adams[6]",26,Week 1,15,0,0,Jessica,Adams[6], Washington,0,0,0,12,12,Brunette,Straight,White,0,1,0,1,4,4,1,0,0,1
+Jill Ruskowski[14],28,Week 1,15,0,0,Jill,Ruskowski[14], Texas,0,0,0,10,10,Brunette,Straight,White,0,1,0,1,2,2,1,0,0,1
+Keltie Colleen[18],28,Week 2,15,0,0,Keltie,Colleen[18], Alberta,0,0,0,10,10,Brunette,Wavy,White,0,1,0,1,2,2,1,0,0,1
+Kimberly Coon[15],27,Week 3,15,0,0,Kimberly,Coon[15], Florida,0,0,0,11,11,Blonde,Straight,White,0,1,0,0,3,3,1,0,0,1
+Lacey Garbelman[21],27,Week 1,15,0,0,Lacey,Garbelman[21], Florida,0,0,0,11,11,Blonde,Straight,White,0,1,0,0,3,3,1,0,0,1
+Lauren Moore[22],26,Week 1,15,0,0,Lauren,Moore[22], Virginia,0,0,0,12,12,Brunette,Straight,White,0,1,0,1,4,4,1,0,0,1
+Lindsay Hill[14],25,Week 4,15,0,0,Lindsay,Hill[14], Texas,0,0,0,13,13,Red,Straight,White,0,1,0,0,5,5,1,0,0,1
+Lisa Morrisey[11],24,Week 5,15,0,0,Lisa,Morrisey[11], Kansas,0,0,0,14,14,Brunette,Wavy,White,0,1,0,1,6,6,1,0,0,1
+Lisa P.,27,Week 1,15,0,0,Lisa,P., New York,0,0,0,11,11,Blonde,Straight,White,0,1,0,0,3,3,1,0,0,1
+Madison Garton[17],25,Week 3,15,0,0,Madison,Garton[17], Colorado,0,0,0,13,13,Blonde,Straight,White,0,1,0,0,5,5,1,0,0,1
+Marissa May[12],26,Week 5,15,0,0,Marissa,May[12], Arizona,0,0,0,12,12,Brunette,Wavy,White,0,1,0,1,4,4,1,0,0,1
+Meghan Merritt,30,Week 4,15,0,0,Meghan,Merritt, New Jersey,0,0,0,8,8,Brunette,Straight,White,0,1,0,1,0,0,0,0,1,1
+Melissa Schreiber[19],32,Week 2,15,0,0,Melissa,Schreiber[19], Connecticut,0,0,0,6,6,Blonde,Straight,White,0,1,0,0,-2,2,0,1,0,1
+Michelle Money,30,Week 7,15,0,2,Michelle,Money, Utah,0,0,0,8,8,Brunette,Wavy,White,0,1,0,1,0,0,0,0,1,1
+Raichel Goodyear[19],29,Week 2,15,0,0,Raichel,Goodyear[19], California,0,0,0,9,9,Brunette,Straight,White,0,1,0,1,1,1,1,0,0,1
+Rebecca,30,Week 1,15,0,0,Rebecca,, California,0,0,0,8,8,Brunette,Straight,White,0,1,0,1,0,0,0,0,1,1
+Renee Halpin,28,Week 1,15,0,0,Renee,Halpin, Illinois,0,0,0,10,10,Brunette,Straight,White,0,1,0,1,2,2,1,0,0,1
+Sarah Ledtke[23],25,Week 1,15,0,0,Sarah,Ledtke[23], Michigan,0,0,0,13,13,Brunette,Wavy,White,0,1,0,1,5,5,1,0,0,1
+Sarah Powell[16],27,Week 3,15,0,0,Sarah,Powell[16], Colorado,0,0,0,11,11,Blonde,Wavy,White,0,1,0,0,3,3,1,0,0,1
+Shawntel Newton[8],25,Week 8,15,0,2,Shawntel,Newton[8], California,0,0,0,13,13,Brunette,Wavy,White,0,1,0,1,5,5,1,0,0,1
+Stacey Quirpel,26,Week 4,15,0,0,Stacey,Quirpel, Massachusetts,0,0,0,12,12,Brunette,Straight,White,0,1,0,1,4,4,1,0,0,1
+Alexa (Lex) McAllister[9],25,Week 1,14,0,0,Alexa,McAllister[9], Ohio,0,0,0,7,7,Blonde,Wavy,White,0,1,0,0,5,5,1,0,0,1
+Ali Fedotowsky[1][4],25,Week 6,14,0,1,Ali,Fedotowsky[1][4], Massachusetts,0,0,0,7,7,Blonde,Straight,White,0,1,0,0,5,5,1,0,0,1
+Ashleigh Hunt[1],25,Week 4,14,0,0,Ashleigh,Hunt[1], Maryland,0,0,0,7,7,Blonde,Wavy,White,0,1,0,0,5,5,1,0,0,1
+Ashley Elmore[7],29,Week 2,14,0,0,Ashley,Elmore[7], Pennsylvania,0,0,0,3,3,Brunette,Straight,White,0,1,0,1,1,1,1,0,0,1
+Caitlyn McCabe[10],24,Week 1,14,0,0,Caitlyn,McCabe[10], Illinois,0,0,0,8,8,Red,Wavy,White,0,1,0,0,6,6,1,0,0,1
+Channy Choch[11],29,Week 1,14,0,0,Channy,Choch[11], California,0,0,0,3,3,Brunette,Wavy,White,0,1,0,1,1,1,1,0,0,1
+Christina McCasland[8],25,Week 2,14,0,0,Christina,McCasland[8], California,0,0,0,7,7,Blonde,Straight,White,0,1,0,0,5,5,1,0,0,1
+Corrie Adamson[1],23,Week 5,14,0,0,Corrie,Adamson[1], Florida,0,0,0,9,9,Blonde,Straight,White,0,1,0,0,7,7,1,0,0,1
+Elizabeth Kitt (NE)[4],29,Week 3,14,0,1,Elizabeth,Kitt, Nebraska,0,0,0,3,3,Brunette,Wavy,White,0,1,0,1,1,1,1,0,0,1
+Elizabeth Kreft (D.C.)[12],29,Week 1,14,0,0,Elizabeth,Kreft, Kentucky,0,0,0,3,3,Red,Wavy,White,0,1,0,0,1,1,1,0,0,1
+Ella Nolan[1][4],30,Week 4,14,0,1,Ella,Nolan[1][4], Tennessee,0,0,0,2,2,Red,Wavy,White,0,1,0,0,0,0,0,0,1,1
+Emily Harkins[9],23,Week 1,14,0,0,Emily,Harkins[9], Ohio,0,0,0,9,9,Brunette,Wavy,White,0,1,0,1,7,7,1,0,0,1
+Gia Allemand[1][4],26,Week 7,14,0,1,Gia,Allemand[1][4], New York,0,0,0,6,6,Red,Wavy,White,0,1,0,0,4,4,1,0,0,1
+Jessie Sulidis[1],25,Week 4,14,0,0,Jessie,Sulidis[1], Ontario,0,0,0,7,7,Brunette,Wavy,White,0,1,0,1,5,5,1,0,0,1
+Kathryn Sherlock[5],25,Week 4,14,0,0,Kathryn,Sherlock[5], Kentucky,0,0,0,7,7,Blonde,Wavy,White,0,1,0,0,5,5,1,0,0,1
+Kimberly Sullivan[13],24,Week 1,14,0,0,Kimberly,Sullivan[13], Oklahoma,0,0,0,8,8,Brunette,Straight,White,0,1,0,1,6,6,1,0,0,1
+Kirsten Pittman[14],25,Week 1,14,0,0,Kirsten,Pittman[14], Colorado,0,0,0,7,7,Blonde,Wavy,White,0,1,0,0,5,5,1,0,0,1
+Michelle Kujawa[4],26,Week 3,14,0,0,Michelle,Kujawa[4], California,0,0,0,6,6,Red,Straight,White,0,1,0,0,4,4,1,0,0,1
+Rozlyn Papa[4],28,Week 2,14,0,1,Rozlyn,Papa[4], Virginia,0,0,0,4,4,Blonde,Wavy,White,0,1,0,0,2,2,1,0,0,1
+Sheila Marie Lidner[15],25,Week 1,14,0,0,Sheila,Lidner[15], Arizona,0,0,0,7,7,Blonde,Wavy,White,0,1,0,0,5,5,1,0,0,1
+Stephanie Mueller[13],24,Week 1,14,0,0,Stephanie,Mueller[13], Illinois,0,0,0,8,8,Brunette,Straight,White,0,1,0,1,6,6,1,0,0,1
+Tenley Molzahn[1][3],25,Runner-up,14,1,1,Tenley,Molzahn[1][3], Oregon,0,1,0,7,7,Blonde,Wavy,White,0,1,0,0,5,5,1,0,0,1
+Tiana Kruzel[16],31,Week 1,14,0,0,Tiana,Kruzel[16], Alberta,0,0,0,1,1,Blonde,Straight,White,0,1,0,0,-1,1,0,1,0,1
+Valishia Savage[6],32,Week 3,14,0,0,Valishia,Savage[6], California,0,0,0,0,0,Brunette,Straight,White,0,0,1,1,-2,2,0,1,0,1
+Vienna Girardi[1][2],23,Winner,14,0,1,Vienna,Girardi[1][2], Florida,1,0,0,9,9,Blonde,Wavy,White,0,1,0,0,7,7,1,0,0,1
+Ann Lueders,24,Week 1,13,0,0,Ann,Lueders, Arizona,0,0,0,9,9,Brunette,Straight,White,0,1,0,1,3,3,1,0,0,1
+Dominique Carta,26,Week 1,13,0,0,Dominique,Carta, Pennsylvania,0,0,0,7,7,Brunette,Wavy,White,0,1,0,1,1,1,1,0,0,1
+Emily,23,Week 1,13,0,0,Emily,, Washington,0,0,0,10,10,Blonde,Straight,White,0,1,0,0,4,4,1,0,0,1
+Erica DeSimone,25,Week 3,13,0,0,Erica,DeSimone, Connecticut,0,0,0,8,8,Brunette,Wavy,White,0,1,0,1,2,2,1,0,0,1
+Jackie Hickey,26,Week 1,13,0,0,Jackie,Hickey, Massachusetts,0,0,0,7,7,Red,Straight,White,0,1,0,0,1,1,1,0,0,1
+Jillian Harris,29,Week 7,13,0,2,Jillian,Harris, Alberta,0,0,0,4,4,Brunette,Wavy,White,0,1,0,1,-2,2,0,1,0,1
+Julie Dermotta,26,Week 1,13,0,0,Julie,Dermotta, Ohio,0,0,0,7,7,Brunette,Straight,Black,0,1,0,1,1,1,1,0,0,0
+Kari Fajen[8],27,Week 3,13,0,0,Kari,Fajen[8], Missouri,0,0,0,6,6,Brunette,Curly,White,0,1,0,1,0,0,0,0,1,1
+Lauren Wanger,27,Week 4,13,0,0,Lauren,Wanger, New Jersey,0,0,0,6,6,Brunette,Straight,White,0,1,0,1,0,0,0,0,1,1
+Lisa Gonzalez[12],28,Week 2,13,0,0,Lisa,Gonzalez[12], Idaho,0,0,0,5,5,Brunette,Straight,White,0,1,0,1,-1,1,0,1,0,1
+Megan Parris[5],25,Week 4,13,0,1,Megan,Parris[5], Pennsylvania,0,0,0,8,8,Brunette,Straight,White,0,1,0,1,2,2,1,0,0,1
+Melissa Rycroft[1],25,Winner,13,0,1,Melissa,Rycroft[1], Texas,1,0,0,8,8,Brunette,Straight,White,0,1,0,1,2,2,1,0,0,1
+Molly Malaney[2],24,Runner-up,13,0,2,Molly,Malaney[2], Wisconsin,0,1,0,9,9,Blonde,Straight,White,0,1,0,0,3,3,1,0,0,1
+Naomi Rose Crespo[3],24,Week 6,13,0,1,Naomi,Crespo[3], California,0,0,0,9,9,Brunette,Straight,White,0,1,0,1,3,3,1,0,0,1
+Natalie Getz[9],27,Week 3,13,0,0,Natalie,Getz[9], Illinois,0,0,0,6,6,Blonde,Straight,White,0,1,0,0,0,0,0,0,1,1
+"Nicole ""Nikki"" Kaapke[7]",29,Week 4,13,1,0,Nicole,Kaapke[7], Illinois,0,0,0,4,4,Brunette,Straight,White,0,1,0,1,-2,2,0,1,0,1
+Nicole Mah,25,Week 1,13,0,0,Nicole,Mah, Alberta,0,0,0,8,8,Brunette,Wavy,White,0,1,0,1,2,2,1,0,0,1
+Raquel Medeiros[10],27,Week 2,13,0,0,Raquel,Medeiros[10], Brazil,0,0,0,6,6,Brunette,Straight,White,0,1,0,1,0,0,0,0,1,1
+Renee Simlak,36,Week 1,13,0,0,Renee,Simlak, Michigan,0,0,0,3,-3,Brunette,Straight,White,1,0,0,1,-9,9,0,1,0,1
+Shannon Bair[6],29,Week 4,13,0,0,Shannon,Bair[6], Missouri,0,0,0,4,4,Brunette,Straight,White,0,1,0,1,-2,2,0,1,0,1
+Sharon Staebell[11],32,Week 2,13,0,0,Sharon,Staebell[11], New York,0,0,0,1,1,Brunette,Straight,White,0,1,0,1,-5,5,0,1,0,1
+Shelby,23,Week 1,13,0,0,Shelby,, California,0,0,0,10,10,Blonde,Straight,White,0,1,0,0,4,4,1,0,0,1
+Stacia Mann,24,Week 1,13,0,0,Stacia,Mann, Utah,0,0,0,9,9,Brunette,Straight,White,0,1,0,1,3,3,1,0,0,1
+Stephanie Hogan[4],34,Week 5,13,0,2,Stephanie,Hogan[4], Alabama,0,0,0,1,-1,Brunette,Straight,White,1,0,0,1,-7,7,0,1,0,1
+Treasure Morgan,28,Week 1,13,0,0,Treasure,Morgan, Utah,0,0,0,5,5,Red,Straight,White,0,1,0,0,-1,1,0,1,0,1
+Alyssa,24,Week 1,12,0,0,Alyssa,, Idaho,0,0,0,4,4,Blonde,Straight,White,0,1,0,0,0,0,0,0,0,0
+Amanda Petterman[12],26,Week 1,12,0,0,Amanda,Petterman[12], Tennessee,0,0,0,2,2,Blonde,Straight,White,0,1,0,0,0,0,0,0,0,0
+Amanda Rantuccio[1],27,Week 7,12,1,1,Amanda,Rantuccio[1], Florida,0,0,0,1,1,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Amy,22,Week 3,12,0,0,Amy,, California,0,0,0,6,6,Blonde,Straight,White,0,1,0,0,0,0,0,0,0,0
+Ashlee Williss[4],22,Week 4,12,0,1,Ashlee,Williss[4], Florida,0,0,0,6,6,Brunette,Wavy,White,0,1,0,0,0,0,0,0,0,0
+Carri Perrier[8][9],25,Week 2,12,0,0,Carri,Perrier[8][9], Oklahoma,0,0,0,3,3,Blonde,Straight,White,0,1,0,0,0,0,0,0,0,0
+Chelsea Wanstrath[1],25,Runner-up,12,0,2,Chelsea,Wanstrath[1], Colorado,0,1,0,3,3,Brunette,Wavy,White,0,1,0,0,0,0,0,0,0,0
+Denise,30,Week 1,12,0,0,Denise,, D.C,0,0,0,2,-2,Brunette,Straight,White,1,0,0,0,0,0,0,0,0,0
+Devon,24,Week 1,12,0,0,Devon,, Texas,0,0,0,4,4,Blonde,Straight,White,0,1,0,0,0,0,0,0,0,0
+Erin Harper[10][11],25,Week 2,12,0,0,Erin,Harper[10][11], Washington,0,0,0,3,3,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Erin Storm,33,Week 3,12,0,0,Erin,Storm, California,0,0,0,5,-5,Blonde,Straight,White,1,0,0,0,0,0,0,0,0,0
+Holly Durst[5][6],24,Week 4,12,0,1,Holly,Durst[5][6], Ohio,0,0,0,4,4,Blonde,Straight,White,0,1,0,0,0,0,0,0,0,0
+Kelly Duncan,25,Week 4,12,0,0,Kelly,Duncan, California,0,0,0,3,3,Blonde,Straight,White,0,1,0,0,0,0,0,0,0,0
+Kristine Heffelfinger[7],33,Week 3,12,0,0,Kristine,Heffelfinger[7], Pennsylvania,0,0,0,5,-5,Blonde,Wavy,White,1,0,0,0,0,0,0,0,0,0
+Lesley Geyer[13],23,Week 1,12,0,0,Lesley,Geyer[13], Florida,0,0,0,5,5,Brunette,Wavy,White,0,1,0,0,0,0,0,0,0,0
+Marshana Ritchie[3],27,Week 5,12,0,1,Marshana,Ritchie[3], New York,0,0,0,1,1,Brunette,Wavy,Black,0,1,0,0,0,0,0,0,0,0
+Michele R.,33,Week 1,12,0,0,Michele,R., California,0,0,0,5,-5,Brunette,Straight,White,1,0,0,0,0,0,0,0,0,0
+Michelle P.,28,Week 2,12,0,0,Michelle,P., New York,0,0,0,0,0,Red,Straight,White,0,0,0,0,0,0,0,0,0,0
+Noelle Drake[2],26,Week 6,12,0,0,Noelle,Drake[2], Colorado,0,0,0,2,2,Red,Straight,White,0,1,0,0,0,0,0,0,0,0
+Rebecca,30,Week 1,12,0,0,Rebecca,, California,0,0,0,2,-2,Brunette,Straight,White,1,0,0,0,0,0,0,0,0,0
+Robin Canfield[3],22,Week 5,12,0,1,Robin,Canfield[3], Michigan,0,0,0,6,6,Red,Straight,White,0,1,0,0,0,0,0,0,0,0
+Shayne Lamas[1],22,Winner,12,0,1,Shayne,Lamas[1], California,1,0,0,6,6,Blonde,Straight,White,0,1,0,0,0,0,0,0,0,0
+Stacey Elza[14],26,Week 1,12,0,0,Stacey,Elza[14], Illinois,0,0,0,2,2,Blonde,Straight,White,0,1,0,0,0,0,0,0,0,0
+Tamara,23,Week 1,12,0,0,Tamara,, California,0,0,0,5,5,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Tiffany,33,Week 1,12,0,0,Tiffany,, California,0,0,0,5,-5,Brunette,Straight,White,1,0,0,0,0,0,0,0,0,0
+Bettina Bell[2],27,Week 7,11,0,1,Bettina,Bell[2], D.C.,0,0,0,8,8,Brunette,Straight,White,0,1,0,0,3,3,1,0,0,0
+Deanna Pappas[1],25,Week 8,11,0,2,Deanna,Pappas[1], Georgia,0,0,0,10,10,Brunette,Straight,White,0,1,0,0,5,5,1,0,0,0
+Erin Gardner,25,Week 2,11,0,0,Erin,Gardner, Florida,0,0,0,10,10,Brunette,Straight,White,0,1,0,0,5,5,1,0,0,0
+"Estefania ""Stephy"" Kootz",26,Week 4,11,0,1,Estefania,Kootz, Georgia,0,0,0,9,9,Brunette,Straight,White,0,1,0,0,4,4,1,0,0,0
+Hillary Reisinger[4],27,Week 5,11,0,1,Hillary,Reisinger[4], Pennsylvania,0,0,0,8,8,Brunette,Straight,White,0,1,0,0,3,3,1,0,0,0
+Jade Beazley[6],24,Week 4,11,0,0,Jade,Beazley[6], Tennessee,0,0,0,11,11,Brunette,Straight,White,0,1,0,0,6,6,1,0,0,0
+Jenni Croft,27,Week 8,11,1,1,Jenni,Croft, Kansas,0,0,0,8,8,Brunette,Straight,White,0,1,0,0,3,3,1,0,0,0
+Jessica Kiss,27,Week 1,11,0,0,Jessica,Kiss, Florida,0,0,0,8,8,Brunette,Straight,White,0,1,0,0,3,3,1,0,0,0
+Juli Gilliam,24,Week 1,11,0,0,Juli,Gilliam, Illinois,0,0,0,11,11,Brunette,Straight,White,0,1,0,0,6,6,1,0,0,0
+Kim Orville,31,Week 1,11,0,0,Kim,Orville, Connecticut,0,0,0,4,4,Brunette,Straight,White,0,1,0,0,-1,1,0,1,0,0
+Kristy Katzmann[5],29,Week 5,11,0,1,Kristy,Katzmann[5], Illinois,0,0,0,6,6,Brunette,Straight,White,0,1,0,0,1,1,1,0,0,0
+Lindsey Hawkins,25,Week 3,11,0,0,Lindsey,Hawkins, Michigan,0,0,0,10,10,Brunette,Straight,White,0,1,0,0,5,5,1,0,0,0
+Lori Langley[11],33,Week 1,11,0,0,Lori,Langley[11], Maryland,0,0,0,2,2,Brunette,Straight,White,0,1,0,0,-3,3,0,1,0,0
+Mallory Simons,24,Week 2,11,0,0,Mallory,Simons, Hawaii,0,0,0,11,11,Brunette,Straight,White,0,1,0,0,6,6,1,0,0,0
+McCarten Delaney[7][8],26,Week 4,11,0,0,McCarten,Delaney[7][8], California,0,0,0,9,9,Brunette,Straight,White,0,1,0,0,4,4,1,0,0,0
+Melissa Buschel[12],28,Week 1,11,0,0,Melissa,Buschel[12], New York,0,0,0,7,7,Brunette,Straight,White,0,1,0,0,2,2,1,0,0,0
+Michele Leavy[10],30,Week 2,11,0,0,Michele,Leavy[10], New Jersey,0,0,0,5,5,Brunette,Straight,White,0,1,0,0,0,0,0,0,1,0
+Morgan Becker,24,Week 1,11,0,0,Morgan,Becker, Arizona,0,0,0,11,11,Brunette,Straight,White,0,1,0,0,6,6,1,0,0,0
+Natalie Velasco,25,Week 1,11,0,0,Natalie,Velasco, Texas,0,0,0,10,10,Brunette,Straight,White,0,1,0,0,5,5,1,0,0,0
+Regina Doringa,31,Week 1,11,0,0,Regina,Doringa, California,0,0,0,4,4,Brunette,Straight,White,0,1,0,0,-1,1,0,1,0,0
+Sarah Newlon,23,Week 3,11,0,1,Sarah,Newlon, Illinois,0,0,0,12,12,Brunette,Straight,White,0,1,0,0,7,7,1,0,0,0
+Sheena Stewart[3],23,Week 6,11,0,0,Sheena,Stewart[3], California,0,0,0,12,12,Brunette,Straight,White,0,1,0,0,7,7,1,0,0,0
+Solisa Shoop[9],25,Week 3,11,0,0,Solisa,Shoop[9], Texas,0,0,0,10,10,Brunette,Straight,White,0,1,0,0,5,5,1,0,0,0
+Susan Stein,35,Week 1,11,0,0,Susan,Stein, Illinois,0,0,0,0,0,Brunette,Straight,White,0,0,1,0,-5,5,0,1,0,0
+Tauni Nessler [11],31,Week 1,11,0,0,Tauni,Nessler, Minnesota,0,0,0,4,4,Brunette,Straight,White,0,1,0,0,-1,1,0,1,0,0
+Alexis Young,26,Week 2,10,0,0,Alexis,Young, TX,0,0,0,3,3,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Amanda Hackney,26,Week 3,10,0,0,Amanda,Hackney, TX,0,0,0,3,3,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Amber Alchalabi,23,Week 6,10,0,2,Amber,Alchalabi, Texas,0,0,0,6,6,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Bevin Nicole Powers,28,Week 8,10,0,2,Bevin,Powers, California,0,0,0,1,1,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Blakeney Rowe,29,Week 1,10,0,0,Blakeney,Rowe, AL,0,0,0,0,0,Brunette,Straight,White,0,0,1,0,0,0,0,0,0,0
+Candace DeCost,23,Week 1,10,0,0,Candace,DeCost, SC,0,0,0,6,6,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Catherine Warren,23,Week 1,10,0,0,Catherine,Warren, IL,0,0,0,6,6,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Danielle Imwalle,25,Week 7,10,0,0,Danielle,Imwalle, Connecticut,0,0,0,4,4,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Danielle Vallis,26,Week 1,10,0,0,Danielle,Vallis, NY,0,0,0,3,3,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Erin Parker,24,Week 3,10,0,0,Erin,Parker, LA,0,0,0,5,5,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Jackie Topelli,23,Week 1,10,0,0,Jackie,Topelli, MN,0,0,0,6,6,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Jeanette Alvarez,27,Week 1,10,0,0,Jeanette,Alvarez, FL,0,0,0,2,2,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Jessica Devallo,32,Week 1,10,0,0,Jessica,Devallo, NY,0,0,0,3,-3,Brunette,Straight,White,1,0,0,0,0,0,0,0,0,0
+Kate Brockhouse,24,Week 4,10,0,0,Kate,Brockhouse, South Carolina,0,0,0,5,5,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Linda Malek,33,Week 1,10,0,0,Linda,Malek, OH,0,0,0,4,-4,Brunette,Straight,White,1,0,0,0,0,0,0,0,0,0
+Lindsay Smith,22,Week 1,10,0,0,Lindsay,Smith, KS,0,0,0,7,7,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Nicole Clary,26,Week 4,10,0,0,Nicole,Clary, SC,0,0,0,3,3,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Peyton Wright,24,Week 3,10,0,0,Peyton,Wright, Tennessee,0,0,0,5,5,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Stephanie Tipper,27,Week 4,10,1,1,Stephanie,Tipper, SC,0,0,0,2,2,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Stephanie Wilhite,23,Week 5,10,0,1,Stephanie,Wilhite, Kansas,0,0,0,6,6,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Susan Anderson,23,Week 2,10,0,0,Susan,Anderson, TX,0,0,0,6,6,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Tessa Horst,26,Winner,10,0,1,Tessa,Horst, California,1,0,0,3,3,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Tiffany Forester,27,Week 1,10,0,0,Tiffany,Forester, MN,0,0,0,2,2,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Tiffany Warren,28,Week 2,10,0,0,Tiffany,Warren, MA,0,0,0,1,1,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0
+Tina Wu,26,Week 5,10,0,1,Tina,Wu, California,0,0,0,3,3,Brunette,Straight,White,0,1,0,0,0,0,0,0,0,0

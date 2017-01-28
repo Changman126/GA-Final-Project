@@ -1,0 +1,31 @@
+Name,Age,Season,FirstImpressionRose,DateRose,FirstName,LastName,State,AbsDistFromBachelorAge,RelDistFromBachelorAge,BachelorAge,OlderthanBachelor,YoungerthanBachelor,SameAgeasBachelor,ContestantHairColor,ContestantHairType,ContestantRace,Bachelor,BachelorHairColor,BachelorRace,BachelorBachelorette,BachelorBacheloretteHairColor,SameHairasBachelorette,BacheloretteAge,DistFromBacheloretteAge,AbsDistFromBacheloretteAge,OlderThanBachelorette,YoungerThanBachelorette,SameAgeasBachelorette,BacheloretteRace,SameRaceasBachelorette
+Brittany Farrar,26,21,0,0,Brittany,Farrar,California,10,10,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-1,1,1,0,0,White,1
+Whitney Fransway,25,21,0,0,Whitney,Fransway,Minnesota,11,11,36,0,1,0,Brunette,Wavy,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,0,0,0,0,1,White,1
+Raven Gates,25,21,0,1,Raven,Gates,Arkansas,11,11,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,0,0,0,0,1,White,1
+Jasmine Goode,29,21,0,0,Jasmine,Goode,New Jersey,7,7,36,0,1,0,Brunette,Wavy,Black,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-4,4,1,0,0,White,0
+Vanessa Grimaldi,29,21,0,1,Vanessa,Grimaldi,Canada,7,7,36,0,1,0,Brunette,Wavy,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-4,4,1,0,0,White,1
+Jaimi King,28,21,0,0,Jaimi,King,Louisiana,8,8,36,0,1,0,Brunette,Curly,Black,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-3,3,1,0,0,White,0
+Rachel Lindsay,31,21,1,1,Rachel,Lindsay,Texas,5,5,36,0,1,0,Brunette,Straight,Black,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-6,6,1,0,0,White,0
+Astrid Loch,26,21,0,0,Astrid,Loch,Florida,10,10,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-1,1,1,0,0,White,1
+Danielle Lombard,27,21,0,2,Danielle,Lombard,California,9,9,36,0,1,0,Brunette,Wavy,Asian,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-2,2,1,0,0,White,0
+Danielle Maltby,31,21,0,1,Danielle,Maltby,Wisconsin,5,5,36,0,1,0,Blonde,Wavy,White,Nick Vial,Brunette,White,JoJo,Brunette,0,25,-6,6,1,0,0,White,1
+Taylor Nolan,23,21,0,0,Taylor,Nolan,Washington,13,13,36,0,1,0,Brunette,Wavy,Asian,Nick Vial,Brunette,White,JoJo,Brunette,1,25,2,2,0,1,0,White,0
+Corinne Olympios,24,21,0,1,Corinne,Olympios,Florida,12,12,36,0,1,0,Blonde,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,0,25,1,1,0,1,0,White,1
+Kristina Schulman,24,21,0,1,Kristina,Schulman,Kentucky,12,12,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,1,1,0,1,0,White,1
+Josephine Tutman,24,21,0,0,Josephine,Tutman,California,12,12,36,0,1,0,Blonde,Wavy,White,Nick Vial,Brunette,White,JoJo,Brunette,0,25,1,1,0,1,0,White,1
+Sarah Vendal,26,21,0,0,Sarah,Vendal,California,10,10,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-1,1,1,0,0,White,1
+Alexis Waters,23,21,0,0,Alexis,Waters,New Jersey,13,13,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,2,2,0,1,0,White,1
+Christen Whitney,25,21,0,1,Christen,Whitney,Indiana,11,11,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,0,0,0,0,1,White,1
+Dominique Alexis,25,21,0,0,Dominique,Alexis,California,11,11,36,0,1,0,Brunette,Wavy,Black,Nick Vial,Brunette,White,JoJo,Brunette,1,25,0,0,0,0,1,White,0
+Lacey Mark,25,21,0,0,Lacey,Mark,New Jersey,11,11,36,0,1,0,Blonde,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,0,25,0,0,0,0,1,White,1
+Hailey Merkt,23,21,0,0,Hailey,Merkt,Canada,13,13,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,2,2,0,1,0,White,1
+Elizabeth Whitelaw,24,21,0,0,Elizabeth,Whitelaw,Illinois,12,12,36,0,1,0,Blonde,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,0,25,1,1,0,1,0,White,1
+Elizabeth Sandoz,29,21,0,0,Elizabeth,Sandoz,Nebraska,7,7,36,0,1,0,Brunette,Wavy,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-4,4,1,0,0,White,1
+Angela Amezcua,26,21,0,0,Angela,Amezcua,Maryland,10,10,36,0,1,0,Brunette,Wavy,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-1,1,1,0,0,White,1
+Jasmine Brown,25,21,0,0,Jasmine,Brown,Washington,11,11,36,0,1,0,Brunette,Straight,Black,Nick Vial,Brunette,White,JoJo,Brunette,1,25,0,0,0,0,1,White,0
+Olivia Burnette,25,21,0,0,Olivia,Burnette,Alaska,11,11,36,0,1,0,Brunette,Straight,Asian,Nick Vial,Brunette,White,JoJo,Brunette,1,25,0,0,0,0,1,White,0
+Ida Marie DeLosSantos,23,21,0,0,Ida Marie,DeLosSantos,Texas,13,13,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,2,2,0,1,0,White,1
+Briana Guertler,28,21,0,0,Briana,Guertler,Utah,8,8,36,0,1,0,Brunette,Straight,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-3,3,1,0,0,White,1
+Lauren Hussey,30,21,0,0,Lauren,Hussey,Florida,6,6,36,0,1,0,Blonde,Wavy,White,Nick Vial,Brunette,White,JoJo,Brunette,0,25,-5,5,1,0,0,White,1
+Susannah Milan,26,21,0,0,Susannah,Milan,California,10,10,36,0,1,0,Brunette,Wavy,White,Nick Vial,Brunette,White,JoJo,Brunette,1,25,-1,1,1,0,0,White,1
+Michelle Ramkissoon,24,21,0,0,Michelle,Ramkissoon,California,12,12,36,0,1,0,Brunette,Straight,Black,Nick Vial,Brunette,White,JoJo,Brunette,1,25,1,1,0,1,0,White,0
