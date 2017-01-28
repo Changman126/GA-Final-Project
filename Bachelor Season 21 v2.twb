@@ -342,13 +342,13 @@
       <column-instance column='[Linear Regression Prediction]' derivation='Sum' name='[sum:Linear Regression Prediction:qk]' pivot='key' type='quantitative' />
       <column-instance column='[Random Forest Regression Prediction]' derivation='Sum' name='[sum:Random Forest Regression Prediction:qk]' pivot='key' type='quantitative' />
       <extract count='-1' enabled='true' units='records'>
-        <connection class='dataengine' dbname='C:\Users\ochang\My Documents\My Tableau Repository\Datasources\BachelorSeason21 (BachelorSeason21).tde' schema='Extract' tablename='Extract' update-time='01/28/2017 03:38:57 PM'>
+        <connection class='dataengine' dbname='C:\Users\ochang\My Documents\My Tableau Repository\Datasources\BachelorSeason21 (BachelorSeason21).tde' schema='Extract' tablename='Extract' update-time='01/28/2017 04:37:19 PM'>
           <relation name='Extract' table='[Extract].[Extract]' type='table' />
           <calculations>
             <calculation column='[Number of Records]' formula='1' />
           </calculations>
-          <refresh increment-key='' incremental-updates='false'>
-            <refresh-event add-from-file-path='' increment-value='%null%' refresh-type='create' rows-inserted='30' timestamp-start='2017-01-28 15:38:57.329' />
+          <refresh>
+            <refresh-event add-from-file-path='' increment-value='%null%' refresh-type='create' rows-inserted='30' timestamp-start='2017-01-28 16:37:19.900' />
           </refresh>
           <metadata-records>
             <metadata-record class='column'>
@@ -898,7 +898,7 @@
                 <statistic aggregation='Min' datatype='string'>&quot;Eliminated&quot;</statistic>
                 <statistic aggregation='Max' datatype='string'>&quot;Still in it to Win it&quot;</statistic>
                 <statistic aggregation='Count' datatype='integer'>30</statistic>
-                <statistic aggregation='Median' datatype='string'>&quot;Eliminated&quot;</statistic>
+                <statistic aggregation='Median' datatype='string'>&quot;Still in it to Win it&quot;</statistic>
               </statistics>
               <attributes>
                 <attribute datatype='string' name='DebugRemoteCollation'>&quot;en_US_CI&quot;</attribute>
